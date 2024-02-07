@@ -13,19 +13,9 @@
 #
 ---
 include:
-  - board: nice_nano
+  - board: nice_nano_v2
     shield: scylla_dmmpcb_left
-  - board: nice_nano
+  - board: nice_nano_v2
     shield: scylla_dmmpcb_right
   - board: nice_nano_v2
-    shield: cradio_left
-  - board: nice_nano_v2
-    shield: cradio_right
-  - board: nice_nano_v2
-    shield: bastyl_left
-  - board: nice_nano_v2
-    shield: bastyl_right
-  - board: nice_nano_v2
-    shield: skeletyl_v2_elitec_left
-  - board: nice_nano_v2
-    shield: skeletyl_v2_elitec_right
+    shield: settings_reset
